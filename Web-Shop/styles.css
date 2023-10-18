@@ -1,0 +1,18 @@
+#cartItems .cartItem{
+  border-bottom: 1px solid #DDD;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#cartItems .cartItem .productPicture{
+  width: 100%;
+  height: auto;
+}
+#cartItems .text-right{
+  text-align: right;
+}
+#cartItems .cartItemHeader{
+  border-bottom: 1px solid #DDD;
+}
+#cartItems .text-center{
+  text-align: center;
+}
